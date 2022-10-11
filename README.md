@@ -16,7 +16,7 @@ Systeemontwerp
 
 
 
-De voetbalclub FC Smal is in het bezit van het voetbalstadion van Poperinge. Dit betreft het veld, alle apparatuur, infrastructuur en materiaal. 
+De voetbalclub FC Smal is in het bezit van het voetbalstadion van Poperinge. Dit betreft het veld, alle apparatuur, reclameborden, infrastructuur en materiaal. 
 
 Op het veld kunnen matches gespeeld worden door de thuisploeg. Anderzijds kunnen andere ploegen of particulieren (externen) het veld afhuren voor gebruik. Dit kan aan de hand van een aanvraag voor een bepaald tijdslot, gevolgd door een goedkeuring door FC Smal.
 
@@ -28,13 +28,17 @@ Iedere zomer is er een transferperiode waarbij er spelers kunnen uitgewisseld wo
 
 ## Business scenarios
 
-
+* Onderhoud stadion: sproeien schilderen peuken rapen i dont know
+* Feesten, recepties, evenementen (cafetaria verhuren)
+* Training inplannen
+* Spelers betalen
+* Sponsors aantrekken
 
 ### Match inplannen
 
 De voetbalbond legt een datum op voor een match, deze wordt ingepland in een vrij tijdslot het systeem
 
-### Veld verhuren
+### Stadion verhuren
 
 
 
@@ -43,10 +47,6 @@ De voetbalbond legt een datum op voor een match, deze wordt ingepland in een vri
 
 
 ### Speler verkopen
-
-
-
-
 
 
 
