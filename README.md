@@ -36,9 +36,7 @@ Bezoekers van een voetbalmatch kunnen een ticket kopen voor een bepaalde match. 
 
 ### Match inplannen
 
-lars
-
-De voetbalbond legt een datum op voor een match, deze wordt ingepland in een vrij tijdslot het systeem
+De voetbalbond legt een datum op voor een match, deze wordt ingepland in een vrij tijdslot het systeem. Met elke match moet er vooraf minstens 1 training ingepland worden en minstens 1 team meeting om de tactieken te bespreken. Voor die match moeten de 2kleedkamers (bezoekers en thuisploeg) helemaal proper gemaakt worden. Het veld moet worden klaargemaakt: het gras moet worden afgereden, goals gecontroleerd, lijnen opnieuw trekken,.... 3uur voordat de match start kunnen supporters het machtige stadion bezoeken en in de merchandise shop iets kopen en in het café, cafetaria de sporthalle bij Carlo en Melanie, iets drinken.
 
 ### Stadion verhuren
 
@@ -48,7 +46,11 @@ Externe partijen, prijsbepaling.
 
 ### Ticketverkoop
 
-lars
+Supporters kunnen op 3 manieren betalen om een match te kunnen bekijken.
+
+1. een maand voor de match opent de ticketverkoop. Als deze geopend is kunnen supporters van de thuisploeg of van de bezoekers een plekje reserveren voor zichzelf of voor meerdere personen (max 5). Er zijn verschillende levels van tickets. Je hebt de gewone stoeltjes, waarvan de prijs stijgt des te beter de plaatsen. Maar er zijn ook de VIP boxes die supporters kunnen huren. Bij de VIP boxes kan een maaltijd genomen worden.
+2. Trouwe supporters van FC Smal kunnen in het begin van het seizoen een abonnement kopen, dit geeft hen toegang tot alle matches met zekerheid van plekken tussen andere abonnementen houders. Dit abonnement kan je in een keer afbetalen maar kan ook een maandelijkse storting zijn. Het is goedkoper wanneer het direct betaald wordt.
+3.  Supporters hebben ook de mogelijkheid om lid te worden van de fan club. Hiervoor betaald men een maandelijkse prijs (wel stukken lager dan het abonnement). Wanneer een supporter lid is van de fan club krijgt die eerder toegang tot tickets en aan een lagere prijs voor betere zitjes.
 
 ### Parking
 
