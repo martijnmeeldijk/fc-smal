@@ -58,7 +58,7 @@ arthur
 
 ### Verhuur panden voor bedrijven/winkels
 
-martijn
+Aan het gigantische voetbalstadion van Poperinge zijn er ook panden voorzien voor handelaars en bedrijven. Een bedrijf kan een pand huren door een aanvraag in te dienen. Als wij deze goedkeuren wordt er een contract aangemaakt en betaalt het bedrijf een bepaalde waarborg.  Aan het begin van de maand wordt het verbruik van elektriciteit, gas en water van de afgelopen maand gemeten per bedrijf en wordt er een factuur opgemaakt met de som van het verbruik en de huurprijs. Deze wordt doorgestuurd naar het desbetreffende bedrijf, waarna er wordt bijgehouden of het bedrag reeds betaald is. Een bedrijf kan zijn contract ook stopzetten. Als deze stopzetting binnen de huurtermijn ligt, zal het bedrijf een aantal maanden opzeg moeten betalen, afhankelijk van de duur van het contract. 
 
 ### Onderhoud stadion
 
