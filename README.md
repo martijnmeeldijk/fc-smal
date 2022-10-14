@@ -57,7 +57,7 @@ Afhankelijk van het type verhuurd moeten ook parkeerplaatsen gerserveerd worden.
 
 Het verhuren van het stadion kan gebeuren door externe partijen zoals bv. bedrijven, scholen, studentenverinigingen ... De prijsbepaling is afhankelijk van welke infrastructuur er wordt gehuurd (bv. veld, cafetaria, zalen, ...) en de tijdsduur. Het is onafhankelijk van de capaciteit, die wel wordt aangegeven op basis van de gekozen te huren infrastructuur.
 
-### Ticketverkoop
+### Ticketverkoop (ToDo, waar is er interactie met het systeem? Kunnen ze overal binnen, waar wordt dat gecontrolleerd... )
 
 Supporters kunnen op 3 manieren betalen om een match te kunnen bekijken.
 
