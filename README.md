@@ -51,7 +51,11 @@ Afhankelijk van de rivaliteit tussen de ploegen moet extra politie ingeschakeld 
 
 ### Stadion verhuren
 
-De verhuur van het stadion gebeurt altijd via de website van FC Slam, die het stadion beheert. Hiervoor wordt een datum en tijdslot gekozen via de online agenda. Hierna wordt de huurder gecontacteerd ter verfificatie. Standaard kan het stadion niet afgehuurd worden op matchdagen. Het verhuren van het stadion kan gebeuren door externe partijen zoals bv. bedrijven, scholen, studentenverinigingen, ... De prijsbepaling is afhankelijk van welke infrastructuur er wordt gehuurd (bv. veld, cafetaria, zalen, ...) en de tijdsduur. Het is onafhankelijk van de capaciteit, die wel wordt aangegeven op basis van de gekozen te huren infrastructuur.
+De verhuur van het stadion gebeurt altijd via de website van FC Slam, die het stadion beheert. Hierbij worden aan huurders vrije datums en tijdsslots getoond waar zij een aanvraag voor kunnen doen.
+
+Afhankelijk van het type verhuurd moeten ook parkeerplaatsen gerserveerd worden. De lijst van toegelaten nummerplaten en/of het aantal gereserveerde parkeerplaatsen worden bij de aanvraag meegegeven door de huurder. Hierbij moet de parkeerwachter controlleren dat desbetreffende auto's gebruik mogen maken van de parking, dit automatisch door nummerplaatherkenning of op controle van toegangsticket. Het ticket wordt nagekeken op geldigheid. 
+
+Het verhuren van het stadion kan gebeuren door externe partijen zoals bv. bedrijven, scholen, studentenverinigingen ... De prijsbepaling is afhankelijk van welke infrastructuur er wordt gehuurd (bv. veld, cafetaria, zalen, ...) en de tijdsduur. Het is onafhankelijk van de capaciteit, die wel wordt aangegeven op basis van de gekozen te huren infrastructuur.
 
 ### Ticketverkoop
 
