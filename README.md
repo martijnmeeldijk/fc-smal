@@ -88,7 +88,7 @@ Drie uur voordat de match start kunnen supporters het machtige stadion bezoeken 
 
 Gemaakt met [draw.io](draw.io)
 
-![service diagram.drawio](service diagram.drawio.png)
+![service diagram.drawio](service diagram.png)
 
 ## Mogelijke uitbreidingen
 
