@@ -14,7 +14,7 @@ Op de parkings moeten genoeg parkeerslots beschikbaar zijn tijdens aankomende ev
 
 Tijdens matchdagen moet de omgeving rond het stadion ook aangepast worden, zo moeten bepaalde straten afgezet worden. Routes voor de spelersbussen en supportersbussen doorgegeven worden, om confrontraties tussen verschillende supportersgroepen en spelers te voorkomen.
 
-Bezoekers van een voetbalmatch kunnen een ticket kopen voor een bepaalde match. De ticketverkoop gebeurt via het systeem van FC Smal als onze ploeg speelt, maar externen kunnen ook gebruik maken van het systeem (onder betaling). Een ticket geeft toegang tot een specifiek deel van het stadion, hierbij is het afhankelijk van welk ticket je hebt gekocht tot welk deel je toegang krijgt. Hier wordt een verschil gemaakt tussen supporters van zone A, B en dergelijke, maar ook tussen VIP en gewone supporters.
+Bezoekers (visitors) van een voetbalmatch kunnen een ticket kopen voor een bepaalde match. De ticketverkoop gebeurt via het systeem van FC Smal als onze ploeg speelt, maar externen kunnen ook gebruik maken van het systeem (onder betaling). Een ticket geeft toegang tot een specifiek deel van het stadion, hierbij is het afhankelijk van welk ticket je hebt gekocht tot welk deel je toegang krijgt. Hier wordt een verschil gemaakt tussen supporters van zone A, B en dergelijke, maar ook tussen VIP en gewone supporters.
 
 Tijdens het gebruik van het stadion worden ook van verschillende bars gebruik gemaakt. Hier is monitoring van het verbuik van dranken, etenswaren noodzakelijk, zodat deze op tijd aangevuld kunnen worden.
 
@@ -26,7 +26,7 @@ Tijdens het gebruik van het stadion worden ook van verschillende bars gebruik ge
 
 De voetbalbond (football association) deelt de planning van komend seizoen mee, wanneer de ploeg speelt, thuis als uitmatchen. Deze data worden ingepland, waardoor het stadion match-klaar gemaakt kan worden. 
 
-Voor die match moeten de twee kleedkamers (bezoekers en thuisploeg) helemaal proper gemaakt worden. Dit wordt gedaan door de kuisploeg en deze wordt verwittigd wanneer hij verwacht wordt de kleedkamers te kuisen.
+Voor die match moeten de twee kleedkamers (bezoekers en thuisploeg) helemaal proper gemaakt worden. Dit wordt gedaan door de kuisploeg (cleaning crew) en deze wordt verwittigd wanneer hij verwacht wordt de kleedkamers te kuisen.
 
 Voor elke match moet het veld gecontroleerd worden door een verantwoordelijke van de BVBB. De controleur geeft mee welke onderhouden nog gedaan moeten worden voordat de match kan starten. Hierbij worden interne ploegen aangesproken afhankelijk van het controle verslag van de BVBB.
 
@@ -40,13 +40,15 @@ Voor elke match moet het veld gecontroleerd worden door een verantwoordelijke va
 
 ### Stadion verhuren
 
-De verhuur van het stadion gebeurt altijd via de website van FC Slam, die het stadion beheert. Hierbij worden aan huurders (tenants) vrije datums en tijdsslots getoond waar zij een aanvraag voor kunnen doen.
+De verhuur (property rental) van het stadion gebeurt altijd via de website van FC Slam, die het stadion beheert. Hierbij worden aan huurders (tenants) vrije datums en tijdsslots getoond waar zij een aanvraag voor kunnen doen.
 
-Afhankelijk van het type verhuur (rental) moeten ook parkeerplaatsen gerserveerd worden. De lijst van toegelaten nummerplaten en/of het aantal gereserveerde parkeerplaatsen worden bij de aanvraag meegegeven door de huurder. Hierbij moet de parkeerwachter controleren dat desbetreffende auto's gebruik mogen maken van de parking, dit automatisch door nummerplaatherkenning of op controle van toegangsticket. Het ticket wordt nagekeken op geldigheid. 
+Afhankelijk van het type verhuur moeten ook parkeerplaatsen gereserveerd worden. De lijst van toegelaten nummerplaten en/of het aantal gereserveerde parkeerplaatsen worden bij de aanvraag meegegeven door de huurder. Hierbij moet de parkeerwachter controleren dat desbetreffende auto's gebruik mogen maken van de parking, dit automatisch door nummerplaatherkenning of op controle van toegangsticket. Het ticket wordt nagekeken op geldigheid. 
 
 Het verhuren van het stadion kan gebeuren door externe partijen zoals bv. bedrijven, scholen, studentenverinigingen ... De prijsbepaling is afhankelijk van welke infrastructuur er wordt gehuurd (bv. veld, cafetaria, zalen, ...) en de tijdsduur. Het is onafhankelijk van de capaciteit, die wel wordt aangegeven op basis van de gekozen te huren infrastructuur.
 
 ### Ticketverkoop (ToDo, waar is er interactie met het systeem? Kunnen ze overal binnen, waar wordt dat gecontrolleerd... )
+
+> alvorens diep op de verschillende niveaus in te gaan zou ik gewoon uitleggen dat mensen een ticket kunnen kopen en dat ze dan inchecken op de dag van de match. Dat is de belangrijkste functionaliteit - martijn
 
 Supporters kunnen op 3 manieren betalen om een match te kunnen bekijken.
 
@@ -76,15 +78,22 @@ Aan het gigantische voetbalstadion van Poperinge zijn er ook panden voorzien voo
 
 ### Onderhoud stadion
 
-Met elke match moet er vooraf minstens één training ingepland worden en minstens één team meeting om de tactieken te bespreken.  De tijdsstippen van de match, trainig en meeting wordt meegedeeld met de spelers, trainer, staf en de verantwoordelijke voor het onderhoud van de velden.
+Met elke match moet er vooraf minstens één training ingepland worden en minstens één team meeting om de tactieken te bespreken. De tijdsstippen van de match, training en meeting wordt meegedeeld met de spelers, trainer, staf en de verantwoordelijke voor het onderhoud van de velden.
 
 Drie uur voordat de match start kunnen supporters het machtige stadion bezoeken en in de merchandise shop iets kopen en in het café, cafetaria de sporthalle bij Carlo en Melanie, iets drinken.
 
 
+
+## Service Diagram
+
+Gemaakt met [draw.io](draw.io)
+
+![service diagram.drawio](service diagram.drawio.png)
 
 ## Mogelijke uitbreidingen
 
 Indien onze huidige business scenarios niet uitgebreid genoeg zijn hebben we hier enkele ideeën voor mogelijke uitbreidingen:
 
 * Eten- en drankverkoop
-* 
+* Verhuur van materiaal
+* ...
