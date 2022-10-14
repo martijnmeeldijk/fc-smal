@@ -33,9 +33,7 @@ De voetbalbond legt een datum op voor een match, deze wordt ingepland in een vri
 
 ### Stadion verhuren
 
-arthur
-
-Externe partijen, prijsbepaling.
+De verhuur van het stadion gebeurt altijd via de website van FC Slam, die het stadion beheert. Hiervoor wordt een datum en tijdslot gekozen via de online agenda. Hierna wordt de huurder gecontacteerd ter verfificatie. Standaard kan het stadion niet afgehuurd worden op matchdagen. Het verhuren van het stadion kan gebeuren door externe partijen zoals bv. bedrijven, scholen, studentenverinigingen, ... De prijsbepaling is afhankelijk van welke infrastructuur er wordt gehuurd (bv. veld, cafetaria, zalen, ...) en de tijdsduur. Het is onafhankelijk van de capaciteit, die wel wordt aangegeven op basis van de gekozen te huren infrastructuur.
 
 ### Ticketverkoop
 
@@ -47,9 +45,7 @@ Supporters kunnen op 3 manieren betalen om een match te kunnen bekijken.
 
 ### Parking
 
-voor bezoekers. Abonnement voor frequente bezoekers. PArkeerzones en gradaties.
-
-arthur
+De parking is toegankelijk voor iedereen, maar is opgedeeld in verschillende zones of gradaties. De volgorde is van duurste naar goedkoper: gewone bezoekers (winkel, stadion ...), bezoekers voor de lokale bedrijven/organisaties, frequente bezoekers (min. maandelijks 2 keer), abonnees van het voetbal. Er is natuurlijk ook parking voor de spelers, leveringen en externen (bv. onderhoudsteam), ... maar deze parking is gratis. Op de parking staan verschillende automaten waar er een parkeerticket kan gekocht worden, of deze worden online op de website aangegeven. Op de website kunnen oa. de abonees hun nummerplaat ingeven waardoor er vanzelf een parkeerticket aan lagere kost wordt afgetrokken van hun krediet. Alle checks op de parking (check-in, check-out, ...) gebeuren namelijk o.b.v. nummerplaat. Er zijn opties tot een speciaal matchticket (als er een voetbalmatch is), dagticket (toegang hele stadion) en een standaardticket (toegang hele stadion) o.b.v. de geparkeerde tijdsduur. Bezoekers van de lokale winkels hoeven niet een ticket te kopen, zij kunnen gebruik maken van hun kassaticket, dat ook geldt als een geldig parkeerticket. Hiervoor moeten men voor veiligheidsredenen natuurlijk op de juiste parking staan. Als men aan de slagboom staat en men staat niet in het systeem als winkelier, worden ze verplicht een dagticket te kopen ter compensatie.
 
 ### Verhuur panden voor bedrijven/winkels
 
