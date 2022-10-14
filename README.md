@@ -8,7 +8,7 @@ De voetbalclub FC Smal is in het bezit van het voetbalstadion van Poperinge. Dit
 
 Op het veld in het stadion worden matches gespeeld door de thuisploeg. Anderzijds kunnen andere ploegen of particulieren (externen) de omliggende velden, ruimtes in het stadion afhuren voor gebruik. Dit kan aan de hand van een aanvraag voor een bepaald tijdslot, gevolgd door goedkeuring van FC Smal.
 
-Afhankelijk van welke activiteiten aan de gang zijn in het stadion moeten andere scenario's uitgevoerd worden: trainingen, matchen, events, aanwezige bedrijven.
+Afhankelijk van welke activiteiten aan de gang zijn in het stadion moeten andere scenario's uitgevoerd worden: trainingen, matchen, events en aanwezige bedrijven.
 
 Op de parkings moeten genoeg parkeerslots beschikbaar zijn tijdens aankomende evenementen. Zo moeten parkeerplaatsen vrijgemaakt worden, wanneer deze niet reglementair ingenomen zijn. Dit om te voorkomen dat er meer parkeerplaatsen verhuurd zijn dan beschikbaar, waardoor een actieve telling van de parkeerplaatsen door middel van slimme slagbomen noodzakelijk is.
 
@@ -26,7 +26,7 @@ Tijdens het gebruik van het stadion worden ook van verschillende bars gebruik ge
 
 De voetbalbond (football association) deelt de planning van komend seizoen mee, wanneer de ploeg speelt, thuis als uitmatchen. Deze data worden ingepland, waardoor het stadion match-klaar gemaakt kan worden. 
 
-Voor die match moeten de twee kleedkamers (bezoekers en thuisploeg) helemaal proper gemaakt worden. Dit wordt gedaan door de kuisploeg (cleaning crew) en deze wordt verwittigd wanneer hij verwacht wordt de kleedkamers te kuisen.
+Voor die match moeten de twee kleedkamers (bezoekers en thuisploeg) helemaal proper gemaakt worden. Dit wordt gedaan door de kuisploeg (cleaning crew) en deze wordt verwittigd wanneer er verwacht wordt de kleedkamers te kuisen.
 
 Voor elke match moet het veld gecontroleerd worden door een verantwoordelijke van de BVBB. De controleur geeft mee welke onderhouden nog gedaan moeten worden voordat de match kan starten. Hierbij worden interne ploegen aangesproken afhankelijk van het controle verslag van de BVBB.
 
@@ -76,9 +76,9 @@ Bezoekers van de lokale winkels hoeven niet een ticket te kopen, zij kunnen gebr
 
 Aan het gigantische voetbalstadion van Poperinge zijn er ook panden voorzien voor handelaars en bedrijven. Een bedrijf kan een pand huren door een aanvraag in te dienen. Als wij deze goedkeuren wordt er een contract aangemaakt en betaalt het bedrijf een bepaalde waarborg.  Aan het begin van de maand wordt het verbruik van elektriciteit, gas en water van de afgelopen maand gemeten per bedrijf en wordt er een factuur opgemaakt met de som van het verbruik en de huurprijs. Deze wordt doorgestuurd naar het desbetreffende bedrijf, waarna er wordt bijgehouden of het bedrag reeds betaald is. Een bedrijf kan zijn contract ook stopzetten. Als deze stopzetting binnen de huurtermijn ligt, zal het bedrijf een aantal maanden opzeg moeten betalen, afhankelijk van de duur van het contract.
 
-### Onderhoud stadion
+~~### Onderhoud stadion
 
-Met elke match moet er vooraf minstens één training ingepland worden en minstens één team meeting om de tactieken te bespreken. De tijdsstippen van de match, training en meeting wordt meegedeeld met de spelers, trainer, staf en de verantwoordelijke voor het onderhoud van de velden.
+Met elke match moet er vooraf minstens één training ingepland worden en minstens één team meeting om de tactieken te bespreken. De tijdsstippen van de match, training en meeting worden meegedeeld met de spelers, trainer, staf en de verantwoordelijke voor het onderhoud van de velden. Deze laatste moeten zorgen dat het veld speelklaar is.
 
 Drie uur voordat de match start kunnen supporters het machtige stadion bezoeken en in de merchandise shop iets kopen en in het café, cafetaria de sporthalle bij Carlo en Melanie, iets drinken.
 
