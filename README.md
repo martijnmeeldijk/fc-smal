@@ -37,7 +37,17 @@ Tijdens het gebruik van het stadion worden ook van verschillende bars gebruik ge
 
 ### Match inplannen
 
-De voetbalbond legt een datum op voor een match, deze wordt ingepland in een vrij tijdslot het systeem. Met elke match moet er vooraf minstens 1 training ingepland worden en minstens 1 team meeting om de tactieken te bespreken. Voor die match moeten de 2kleedkamers (bezoekers en thuisploeg) helemaal proper gemaakt worden. Het veld moet worden klaargemaakt: het gras moet worden afgereden, goals gecontroleerd, lijnen opnieuw trekken,.... 3uur voordat de match start kunnen supporters het machtige stadion bezoeken en in de merchandise shop iets kopen en in het café, cafetaria de sporthalle bij Carlo en Melanie, iets drinken.
+De voetbalbond deelt de planning van komend seizoen mee, wanneer de ploeg speelt, thuis als uitmatchen. Deze data worden ingepland, waardoor het stadion match klaar gemaakt kan worden. 
+
+Voor die match moeten de 2 kleedkamers (bezoekers en thuisploeg) helemaal proper gemaakt worden. Dit wordt gedaan door de kuisploeg en deze worden verwittigd wanneer deze verwacht worden de kleedkamers te kuisen.
+
+Voor elke match moet het veld gecontrolleerd worden door een verantwoordelijke van de BVBB. De controlleur geeft mee welke onderhouden nog gedaan moeten worden voor dat de match mag/kan starten. Hierbij worden interne ploegen aangesproken afhankelijk van het controle verslag van de BVBB.
+
+- Het gras moet afgereden zijn tot een vooraf opgelegde hoogte. Afhankelijk van de weersomstandigheden komen hier bijkomend nog taken bij. Bij vriestemperaturen moet het veld verwarmd worden om ijsplekken te voorkomen, bij lange droogtes moet het veld extra bijgesproeid worden. Hierbij wordt het team verantwoordelijk voor de conditie van het gras aangesproken.
+- Doellijn technologie en VAR moet aanwezig zijn, wanneer deze niet aanwezig zijn moet een aanvraag gedaan worden bij de BVBB om deze technologiën te lenen.
+- De lijnen moeten zichtbaar genoeg zijn, anders moeten deze opnieuw getrokken worden. Dit wordt gedaan door de lijntrekkers.
+
+Afhankelijk van de rivaliteit tussen de ploegen moet extra politie ingeschakeld worden, meerdere wegen afgesloten worden om supporters groepen van elkaar te scheiden.
 
 ### Stadion verhuren
 
@@ -60,5 +70,9 @@ De parking is toegankelijk voor iedereen, maar is opgedeeld in verschillende zon
 Aan het gigantische voetbalstadion van Poperinge zijn er ook panden voorzien voor handelaars en bedrijven. Een bedrijf kan een pand huren door een aanvraag in te dienen. Als wij deze goedkeuren wordt er een contract aangemaakt en betaalt het bedrijf een bepaalde waarborg.  Aan het begin van de maand wordt het verbruik van elektriciteit, gas en water van de afgelopen maand gemeten per bedrijf en wordt er een factuur opgemaakt met de som van het verbruik en de huurprijs. Deze wordt doorgestuurd naar het desbetreffende bedrijf, waarna er wordt bijgehouden of het bedrag reeds betaald is. Een bedrijf kan zijn contract ook stopzetten. Als deze stopzetting binnen de huurtermijn ligt, zal het bedrijf een aantal maanden opzeg moeten betalen, afhankelijk van de duur van het contract.
 
 ### Onderhoud stadion
+
+Met elke match moet er vooraf minstens 1 training ingepland worden en minstens 1 team meeting om de tactieken te bespreken.  De tijdsstippen van de match, trainig en meeting wordt meegedeeld met de spelers, trainer, staf en de verantwoordelijke voor het onderhoud van de velden.
+
+3 uur voordat de match start kunnen supporters het machtige stadion bezoeken en in de merchandise shop iets kopen en in het café, cafetaria de sporthalle bij Carlo en Melanie, iets drinken.
 
 stijn
