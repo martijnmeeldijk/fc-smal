@@ -13,11 +13,19 @@ Systeemontwerp
 * Opvragen VAR
 * Slagbomen van de parking, tickets parkeertickets.)
 
-De voetbalclub FC Smal is in het bezit van het voetbalstadion van Poperinge. Dit betreft het stadion, trainingsvelden met bijhorende apparatuur, reclameborden, infrastructuur en materiaal.
+De voetbalclub FC Smal is in het bezit van het voetbalstadion van Poperinge. Dit betreft het stadion, trainingsvelden met bijhorende apparatuur, parkings, reclameborden, infrastructuur en materiaal.
 
 Op het veld in het stadion worden matches gespeeld door de thuisploeg. Anderzijds kunnen andere ploegen of particulieren (externen) de omliggende velden, ruimtes in het stadion afhuren voor gebruik. Dit kan aan de hand van een aanvraag voor een bepaald tijdslot, gevolgd door goedkeuring van FC Smal.
 
-Bezoekers van een voetbalmatch kunnen een ticket kopen voor een bepaalde match. De ticketverkoop gebeurt via het systeem van FC Smal als onze ploeg speelt, maar externen kunnen ook gebruik maken van het systeem (onder betaling).
+Afhankelijk van welke activiteiten bezig zijn in het stadion moeten andere scenario's uitgevoerd worden: trainingen, matchen, events, aanwezige bedrijven.
+
+Op de parkings moeten genoeg parkeerslots beschikbaar/vrij zijn tijdens aankomende evenementen. Zo moeten parkeerplaatsen vrij gemaakt worden, wanneer deze niet reglementair ingenomen zijn. Dit om te voorkomen dat er meer parkeerplaatsen verhuurd zijn, dan beschikbaar, waardoor een actieve telling van de parkeerplaatsen, slimme slagbomen noodzakelijk zijn.
+
+Tijdens matchdagen moet de omgeving rond het stadion ook aangepast worden, zo moeten bepaalde straten afgezet worden. Routes voor de spelersbussen en supportersbussen doorgegeven worden, om confrontraties tussen verschillende supportersgroepen en spelers te voorkomen.
+
+Bezoekers van een voetbalmatch kunnen een ticket kopen voor een bepaalde match. De ticketverkoop gebeurt via het systeem van FC Smal als onze ploeg speelt, maar externen kunnen ook gebruik maken van het systeem (onder betaling). Een ticket geeft toegang tot een specifiek deel van het stadion, hierbij is het afhankelijk van welk ticket je hebt gekocht tot wat je toegang krijgt. Hier wordt een verschil gemaakt tussen supporters van zone A, B en dergelijke, maar ook tussen VIP en gewone supporters.
+
+Tijdens het gebruik van het stadion worden ook van verschillende bars gebruik gemaakt. Hier is monitoring van het verbuik van dranken, etenswaren noodzakelijk, zodat deze op tijd aangevuld kunnen worden.
 
 ## Business scenarios
 
