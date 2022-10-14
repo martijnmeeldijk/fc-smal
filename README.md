@@ -65,9 +65,21 @@ Supporters kunnen op 3 manieren betalen om een match te kunnen bekijken.
 2. Trouwe supporters van FC Smal kunnen in het begin van het seizoen een abonnement kopen, dit geeft hen toegang tot alle matches met zekerheid van plekken tussen andere abonnementen houders. Dit abonnement kan je in een keer afbetalen maar kan ook een maandelijkse storting zijn. Het is goedkoper wanneer het direct betaald wordt.
 3. Supporters hebben ook de mogelijkheid om lid te worden van de fan club. Hiervoor betaald men een maandelijkse prijs (wel stukken lager dan het abonnement). Wanneer een supporter lid is van de fan club krijgt die eerder toegang tot tickets en aan een lagere prijs voor betere zitjes.
 
-### Parking
+### Gebruik van de parking
 
-De parking is toegankelijk voor iedereen, maar is opgedeeld in verschillende zones of gradaties. De volgorde is van duurste naar goedkoper: gewone bezoekers (winkel, stadion ...), bezoekers voor de lokale bedrijven/organisaties, frequente bezoekers (min. maandelijks 2 keer), abonnees van het voetbal. Er is natuurlijk ook parking voor de spelers, leveringen en externen (bv. onderhoudsteam), ... maar deze parking is gratis. Op de parking staan verschillende automaten waar er een parkeerticket kan gekocht worden, of deze worden online op de website aangegeven. Op de website kunnen oa. de abonees hun nummerplaat ingeven waardoor er vanzelf een parkeerticket aan lagere kost wordt afgetrokken van hun krediet. Alle checks op de parking (check-in, check-out, ...) gebeuren namelijk o.b.v. nummerplaat. Er zijn opties tot een speciaal matchticket (als er een voetbalmatch is), dagticket (toegang hele stadion) en een standaardticket (toegang hele stadion) o.b.v. de geparkeerde tijdsduur. Bezoekers van de lokale winkels hoeven niet een ticket te kopen, zij kunnen gebruik maken van hun kassaticket, dat ook geldt als een geldig parkeerticket. Hiervoor moeten men voor veiligheidsredenen natuurlijk op de juiste parking staan. Als men aan de slagboom staat en men staat niet in het systeem als winkelier, worden ze verplicht een dagticket te kopen ter compensatie.
+De parking is toegankelijk voor iedereen, maar is opgedeeld in verschillende zones of gradaties. De volgorde is van duurste naar goedkoper: gewone bezoekers (winkel, stadion ...), bezoekers voor de lokale bedrijven/organisaties,  speciale parkings voor abonnees van het voetbal.
+
+Afhankelijk van de planning geeft het systeem door welke parkings afgesloten moeten worden.  Deze kunnen afgehuurd  zijn, om veiligheidsredenen en dergelijke. Het aantal ingenomen parkeerplaatsen wordt bijgehouden. Wanneer teveel auto's nog zijn geparkeerd, zonder dat deze daar allemaal toelating voor hebben. Bv auto's van winkelier die nog steeds geparkeerd staan, auto's van supporters die door overmacht zijn blijven staan... In dergelijke gevallen wordt de parkeerwachter gecontrolleert om desbetreffende auto's te laten verwijderen van het domein. De parkeerwachter kan nagaan welke auto's wel of niet geparkeerd mogen zijn.
+
+Er is natuurlijk ook parking voor de spelers, leveranciers  en externen (bv. onderhoudsteam) ... maar deze parking is gratis. Leverancies moeten laten weten wanneer deze gebruik gaan maken van de parkeerplaats, zodat deze niet dubbel geboekt kan worden. Hierdoor kunnen genoeg parkeerplaatsen voorzien worden bij leveringen.
+
+Op de parking staan verschillende automaten waar er een parkeerticket kan gekocht worden, deze kunnen ook online aangevraagd worden.
+
+Op de website kunnen oa. de abonees hun nummerplaat ingeven waardoor er vanzelf een parkeerticket aan een lagere prijs wordt toegevoegd aan hun abbonement. Dit ticket geeft hun toegang tot een desbetreffende parking, zodat zij niet tot elke parking toegang hebben. De checks op de parking (check-in, check-out, ...) gebeuren namelijk o.b.v. nummerplaat.
+
+Er zijn opties tot: een speciaal matchticket (als er een voetbalmatch is), een dagticket (toegang hele stadion) en een standaardticket (toegang hele stadion) o.b.v. de geparkeerde tijdsduur.
+
+Bezoekers van de lokale winkels hoeven niet een ticket te kopen, zij kunnen gebruik maken van hun kassaticket, dat ook geldt als een geldig parkeerticket. Hiervoor moeten men voor veiligheidsredenen natuurlijk op de juiste parking staan. Als men aan de slagboom staat en men staat niet in het systeem als winkelier, worden ze verplicht een dagticket te kopen ter compensatie.
 
 ### Verhuur panden voor bedrijven/winkels
 
