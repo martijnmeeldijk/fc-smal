@@ -97,9 +97,15 @@ Er zijn opties tot: een speciaal matchticket (als er een voetbalmatch is), een d
 
 Bezoekers van de lokale winkels hoeven niet een ticket te kopen, zij kunnen gebruik maken van hun kassaticket, dat ook geldt als een geldig parkeerticket. Hiervoor moeten men voor veiligheidsredenen natuurlijk op de juiste parking staan. Als men aan de slagboom staat en men staat niet in het systeem als winkelier, worden ze verplicht een dagticket te kopen ter compensatie.
 
-### Verhuur panden voor bedrijven/winkels
+### Verhuur kantoorruimten voor bedrijven/winkels
 
-Aan het gigantische voetbalstadion van Poperinge zijn er ook panden voorzien voor handelaars en bedrijven. Een bedrijf kan een pand huren door een aanvraag in te dienen. Als wij deze goedkeuren wordt er een contract aangemaakt en betaalt het bedrijf een bepaalde waarborg.  Aan het begin van de maand wordt het verbruik van elektriciteit, gas en water van de afgelopen maand gemeten per bedrijf en wordt er een factuur opgemaakt met de som van het verbruik en de huurprijs. Deze wordt doorgestuurd naar het desbetreffende bedrijf, waarna er wordt bijgehouden of het bedrag reeds betaald is. Een bedrijf kan zijn contract ook stopzetten. Als deze stopzetting binnen de huurtermijn ligt, zal het bedrijf een aantal maanden opzeg moeten betalen, afhankelijk van de duur van het contract.
+Aan het gigantische voetbalstadion van Poperinge zijn er ook kantoorruimten voorzien voor handelaars en bedrijven. Een bedrijf kan een kantoorruimte huren door een aanvraag in te dienen. Een bedrijf doet de aanvraag naar de beschikbare kantoorruimten. Vervolgs kunnen zij een aanvraag doen naar een specifieke kantoorruimte. Deze aanvraag wordt goedgekeurd of afgekeurd door de verantwoordelijke van Smal FC. Bij een goedkeuring stelt deze een contract op, met bijhorende waarborg. Contracten hebben een periode van minimum 1 jaar en kunnen steeds verlengt worden.
+
+De verantwoordelijke houdt het verbruik van elk bedrijf bij en kijkt de maandelijkse betalingen na. Bij het missen van een huur wordt het desbetreffende bedrijf gecontacteerd door de verantwoordelijke en krijgt deze een waarschuwing voor achterstallige huur. Bij meerdere waarschuwingen wordt het contract ontbonden en wordt het bedrijf uit de kantoorruimten gehaald.
+
+Een bedrijf kan ook zelf zijn contract stopzetten. Hier neemt het bedrijf contact op met de verantwoordelijke, die de stopzetting verder afrond. Het bedrijf zal een aantal maanden opzeg moeten betalen, afhankelijk van de duur van het contract.
+
+Jaarlijks neemt de verantwoordelijke contact op met de hurende bedrijven, met de vraag of hun contract met een jaar verlengt wordt of niet. Wanneer een bedrijf zijn contract niet wenst te verlengen, brengt dit geen bijkomende kosten met zich mee.
 
 ### ~~Onderhoud stadion~~
 
