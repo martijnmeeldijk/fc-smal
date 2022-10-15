@@ -71,10 +71,13 @@ Na corona is een leeg stadion niet het beeld dat we nog willen zien. Supporters 
 
 In de tickets en abbonementen zijn verschillende formules mogelijk. Zo hebben supporters de keuze om een standaard ticket te kopen, dat hun toegang geeft tot het bekijken van de match. 
 
-Voor de meer exclusieve supporters zijn VIP-boxen beschikbaar, bij deze formule hoort een 3 gangen-menu en betere stoelen om naar de match te kijken. Bij de VIP-boxen hoort een keukenploeg die de maaltijden voorbereid. Zij moeten op voorhand weten hoeveel gasten gebruik maken van de VIP-boxen om de nodige voedselaankopen te doen. VIP's moeten ook steeds op voorhand allergiën en het wel of niet eten van vlees doorgeven. De keuken vraagt deze keuken op om alternatieven te kunnen voorzien.
+Voor de meer exclusieve supporters zijn VIP-boxen beschikbaar, bij deze formule hoort een 3 gangen-menu en betere stoelen om naar de match te kijken. Bij de VIP-boxen hoort een keukenploeg die de maaltijden voorbereidt. Zij moeten op voorhand weten hoeveel gasten gebruik maken van de VIP-boxen om de nodige voedselaankopen te doen. VIP's moeten ook steeds op voorhand allergiën en het wel of niet eten van vlees doorgeven. De keuken vraagt deze keuken op om alternatieven te kunnen voorzien.
 
 <!--
 (Stijn) Dit deel zou eig. weggelaten mogen worden.
+
+(Arthur) Tenzij we de interacties met ons systeem uitleggen: registreren als abonnee, gegeven ingeven (nummerplaat etc), abonnement dan kopen op website, ...
+=> in feite kunnen we ook hier een apart scenario van maken. het kopen van een abonnement (voor de eerste keer weliswaar)
 
 * Eén maand voor de match opent de ticketverkoop. Als deze geopend is kunnen supporters van de thuisploeg of van de bezoekers een plekje reserveren voor zichzelf of voor meerdere personen (max. 5). Er zijn verschillende levels van tickets. Je hebt de gewone stoeltjes, waarvan de prijs stijgt des te beter de plaatsen. Maar er zijn ook de VIP boxes die supporters kunnen huren. Bij de VIP boxes kan een maaltijd genomen worden.
 * Trouwe supporters van FC Smal kunnen in het begin van het seizoen een abonnement kopen, dit geeft hen toegang tot alle matches met zekerheid van plekken tussen andere abonnementen houders. Dit abonnement kan je in één keer afbetalen maar kan ook een maandelijkse storting zijn. Het is goedkoper wanneer het direct betaald wordt.
@@ -99,7 +102,7 @@ Bezoekers van de lokale winkels hoeven niet een ticket te kopen, zij kunnen gebr
 
 ### Verhuur kantoorruimten voor bedrijven/winkels
 
-Aan het gigantische voetbalstadion van Poperinge zijn er ook kantoorruimten voorzien voor handelaars en bedrijven. Een bedrijf kan een kantoorruimte huren door een aanvraag in te dienen. Een bedrijf doet de aanvraag naar de beschikbare kantoorruimten. Vervolgs kunnen zij een aanvraag doen naar een specifieke kantoorruimte. Deze aanvraag wordt goedgekeurd of afgekeurd door de verantwoordelijke van Smal FC. Bij een goedkeuring stelt deze een contract op, met bijhorende waarborg. Contracten hebben een periode van minimum 1 jaar en kunnen steeds verlengt worden.
+Aan het gigantische voetbalstadion van Poperinge zijn er ook kantoorruimten voorzien voor handelaars en bedrijven. Een bedrijf kan een kantoorruimte huren door een aanvraag in te dienen. Een bedrijf doet de aanvraag naar de beschikbare kantoorruimten. Vervolgs kunnen zij een aanvraag doen naar een specifieke kantoorruimte. Deze aanvraag wordt goedgekeurd of afgekeurd door de verantwoordelijke van Smal FC. Bij een goedkeuring stelt deze een contract op, met bijhorende waarborg. Contracten hebben een periode van minimum 1 jaar en kunnen steeds verlengd worden.
 
 De verantwoordelijke houdt het verbruik van elk bedrijf bij en kijkt de maandelijkse betalingen na. Bij het missen van een huur wordt het desbetreffende bedrijf gecontacteerd door de verantwoordelijke en krijgt deze een waarschuwing voor achterstallige huur. Bij meerdere waarschuwingen wordt het contract ontbonden en wordt het bedrijf uit de kantoorruimten gehaald.
 
@@ -130,6 +133,8 @@ Gemaakt met [draw.io](draw.io)
     - VIP-boxen: keukencrew die moeten weten voor hoeveel mensen ze gerechten moeten voorzien en welke allergiën of vegitariërs er zijn.
 
 - Bij het verhuur van kantoorruimtes, moet daar ook geen verantwoordelijke van Smal FC rechtstreeks verbonden zijn daarmee? (Allez ben luidop aan het denken nu, ik kan echt totaal fout zijn. :'(  )
+
+(Arthur) Kben nu ff aant denken hé, stel da we het scenario 'abonnement kopen (als nieuw lid)' erbij pakken, dan krijgen we een héél registratieproces erbij (!)
 
 ![service diagram.drawio](service_diagram.png)
 
