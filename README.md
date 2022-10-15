@@ -1,7 +1,5 @@
 # Voetbalclub fc-smal
 
-
-
 ## Business domein
 
 De voetbalclub FC Smal is in het bezit van het voetbalstadion van Poperinge. Dit betreft het stadion, trainingsvelden met bijhorende apparatuur, parkings, reclameborden, infrastructuur en materiaal.
@@ -20,41 +18,68 @@ Tijdens het gebruik van het stadion worden ook van verschillende bars gebruik ge
 
 ## Business scenarios
 
-
-
 ### Match inplannen
 
-De voetbalbond (football association) deelt de planning van komend seizoen mee, wanneer de ploeg speelt, thuis als uitmatchen. Deze data worden ingepland, waardoor het stadion match-klaar gemaakt kan worden. 
+De voetbalbond (football association) deelt de planning van komend seizoen mee, wanneer de ploeg speelt, thuis als uitmatchen. Deze data worden ingepland, waardoor het stadion match-klaar gemaakt kan worden.
 
 Voor die match moeten de twee kleedkamers (bezoekers en thuisploeg) helemaal proper gemaakt worden. Dit wordt gedaan door de kuisploeg (cleaning crew) en deze wordt verwittigd wanneer er verwacht wordt de kleedkamers te kuisen.
 
-Voor elke match moet het veld gecontroleerd worden door een verantwoordelijke van de BVBB. De controleur geeft mee welke onderhouden nog gedaan moeten worden voordat de match kan starten. Hierbij worden interne ploegen aangesproken afhankelijk van het controle verslag van de BVBB.
+Voor elke match moet het veld gecontroleerd worden door een verantwoordelijke van de BVBB. De controleur geeft mee welke onderhouden nog gedaan moeten worden voordat de match kan starten. Hierbij worden interne ploegen aangesproken afhankelijk van het controle verslag van de voetbalbond.
 
 - Het gras moet afgereden zijn tot een vooraf opgelegde hoogte. Afhankelijk van de weersomstandigheden komen hier bijkomend nog taken bij. Bij vriestemperaturen moet het veld verwarmd worden om ijsplekken te voorkomen, bij lange droogtes moet het veld extra bijgesproeid worden. Hierbij wordt het team verantwoordelijk voor de conditie van het gras aangesproken.
 - Doellijn technologie en VAR moet aanwezig zijn, wanneer deze niet aanwezig zijn moet een aanvraag gedaan worden bij de BVBB om deze technologiën te lenen.
 - De lijnen moeten zichtbaar genoeg zijn, anders moeten deze opnieuw getrokken worden. Dit wordt gedaan door de lijntrekkers.
 
-~~Afhankelijk van de rivaliteit tussen de ploegen moet extra politie ingeschakeld worden, meerdere wegen afgesloten worden om supporters groepen van elkaar te scheiden.~~ 
+Afhankelijk van de rivaliteit tussen de ploegen moet extra politie ingeschakeld worden, deze worden verwittigd om: meerdere wegen afgesloten worden om supporters groepen van elkaar te scheiden en extra bemanning te voorzien.
 
-> Dit heeft niet echt betrekking tot ons systeem volgens mij, misschien beter achterwege laten -martijn
+<!--- 
+
+- (Martijn) Dit heeft niet echt betrekking tot ons systeem volgens mij, misschien beter achterwege laten;
+
+- (Stijn) Wel relevant, want dan wordt de politie verwittigd. Dus is de politie een extra factor, gebruik makend van het systeem.
+-->
+
 
 ### Stadion verhuren
 
 De verhuur (property rental) van het stadion gebeurt altijd via de website van FC Slam, die het stadion beheert. Hierbij worden aan huurders (tenants) vrije datums en tijdsslots getoond waar zij een aanvraag voor kunnen doen.
 
-Afhankelijk van het type verhuur moeten ook parkeerplaatsen gereserveerd worden. De lijst van toegelaten nummerplaten en/of het aantal gereserveerde parkeerplaatsen worden bij de aanvraag meegegeven door de huurder. Hierbij moet de parkeerwachter controleren dat desbetreffende auto's gebruik mogen maken van de parking, dit automatisch door nummerplaatherkenning of op controle van toegangsticket. Het ticket wordt nagekeken op geldigheid. 
+Afhankelijk van het type verhuur moeten ook parkeerplaatsen gereserveerd worden. De lijst van toegelaten nummerplaten en/of het aantal gereserveerde parkeerplaatsen worden bij de aanvraag meegegeven door de huurder. Hierbij moet de parkeerwachter controleren dat desbetreffende auto's gebruik mogen maken van de parking, dit automatisch door nummerplaatherkenning of op controle van toegangsticket. Het ticket wordt nagekeken op geldigheid.
 
 Het verhuren van het stadion kan gebeuren door externe partijen zoals bv. bedrijven, scholen, studentenverinigingen ... De prijsbepaling is afhankelijk van welke infrastructuur er wordt gehuurd (bv. veld, cafetaria, zalen, ...) en de tijdsduur. Het is onafhankelijk van de capaciteit, die wel wordt aangegeven op basis van de gekozen te huren infrastructuur.
 
-### Ticketverkoop (ToDo, waar is er interactie met het systeem? Kunnen ze overal binnen, waar wordt dat gecontrolleerd... )
+### Ticketverkoop
 
-> alvorens diep op de verschillende niveaus in te gaan zou ik gewoon uitleggen dat mensen een ticket kunnen kopen en dat ze dan inchecken op de dag van de match. Dat is de belangrijkste functionaliteit - martijn
 
-Supporters kunnen op 3 manieren betalen om een match te kunnen bekijken.
 
-1. Eén maand voor de match opent de ticketverkoop. Als deze geopend is kunnen supporters van de thuisploeg of van de bezoekers een plekje reserveren voor zichzelf of voor meerdere personen (max. 5). Er zijn verschillende levels van tickets. Je hebt de gewone stoeltjes, waarvan de prijs stijgt des te beter de plaatsen. Maar er zijn ook de VIP boxes die supporters kunnen huren. Bij de VIP boxes kan een maaltijd genomen worden.
-2. Trouwe supporters van FC Smal kunnen in het begin van het seizoen een abonnement kopen, dit geeft hen toegang tot alle matches met zekerheid van plekken tussen andere abonnementen houders. Dit abonnement kan je in een keer afbetalen maar kan ook een maandelijkse storting zijn. Het is goedkoper wanneer het direct betaald wordt.
-3. Supporters hebben ook de mogelijkheid om lid te worden van de fanclub. Hiervoor betaalt men een maandelijkse prijs (wel stukken lager dan het abonnement). Wanneer een supporter lid is van de fanclub krijgt die eerder toegang tot tickets en aan een lagere prijs voor betere zitjes.
+<!-- 
+
+(Martijn) Alvorens diep op de verschillende niveaus in te gaan zou ik gewoon uitleggen dat mensen een ticket kunnen kopen en dat ze dan inchecken op de dag van de match. Dat is de belangrijkste functionaliteit.
+
+(Stijn) Ticketverkoop prioriteit. De gradaties kan je wel gebruiken als inkleding.
+Wel heel weinig betrokken factors, uiteindelijk maar 1 interactie. Client <-> Online ticketverkoop.
+
+Door het gebruik van VIP-tickets is het wel noodzakelijk dat er gebruik gemaakt wordt van het systeem.
+	- Voor hoeveel mensen moeten er gerechten voorzien worden.
+	- Allergiën
+	- Verzoeken
+=> Mss beter als een ander scenario gebruiken.
+-->
+
+
+Na corona is een leeg stadion niet het beeld dat we nog willen zien. Supporters kunnen hun toegang tot het stadion verkrijgen door het kopen van een ticket. Dit kan obv een dagticket of een abbonement. Deze kunnen aangekocht worden via de website.
+
+In de tickets en abbonementen zijn verschillende formules mogelijk. Zo hebben supporters de keuze om een standaard ticket te kopen, dat hun toegang geeft tot het bekijken van de match. 
+
+Voor de meer exclusieve supporters zijn VIP-boxen beschikbaar, bij deze formule hoort een 3 gangen-menu en betere stoelen om naar de match te kijken. Bij de VIP-boxen hoort een keukenploeg die de maaltijden voorbereid. Zij moeten op voorhand weten hoeveel gasten gebruik maken van de VIP-boxen om de nodige voedselaankopen te doen. VIP's moeten ook steeds op voorhand allergiën en het wel of niet eten van vlees doorgeven. De keuken vraagt deze keuken op om alternatieven te kunnen voorzien.
+
+<!--
+(Stijn) Dit deel zou eig. weggelaten mogen worden.
+
+* Eén maand voor de match opent de ticketverkoop. Als deze geopend is kunnen supporters van de thuisploeg of van de bezoekers een plekje reserveren voor zichzelf of voor meerdere personen (max. 5). Er zijn verschillende levels van tickets. Je hebt de gewone stoeltjes, waarvan de prijs stijgt des te beter de plaatsen. Maar er zijn ook de VIP boxes die supporters kunnen huren. Bij de VIP boxes kan een maaltijd genomen worden.
+* Trouwe supporters van FC Smal kunnen in het begin van het seizoen een abonnement kopen, dit geeft hen toegang tot alle matches met zekerheid van plekken tussen andere abonnementen houders. Dit abonnement kan je in één keer afbetalen maar kan ook een maandelijkse storting zijn. Het is goedkoper wanneer het direct betaald wordt.
+* Supporters hebben ook de mogelijkheid om lid te worden van de fanclub. Hiervoor betaalt men een maandelijkse prijs (wel stukken lager dan het abonnement). Wanneer een supporter lid is van de fanclub krijgt die eerder toegang tot tickets en aan een lagere prijs voor betere zitjes. --->
+
 
 ### Gebruik van de parking
 
@@ -76,12 +101,18 @@ Bezoekers van de lokale winkels hoeven niet een ticket te kopen, zij kunnen gebr
 
 Aan het gigantische voetbalstadion van Poperinge zijn er ook panden voorzien voor handelaars en bedrijven. Een bedrijf kan een pand huren door een aanvraag in te dienen. Als wij deze goedkeuren wordt er een contract aangemaakt en betaalt het bedrijf een bepaalde waarborg.  Aan het begin van de maand wordt het verbruik van elektriciteit, gas en water van de afgelopen maand gemeten per bedrijf en wordt er een factuur opgemaakt met de som van het verbruik en de huurprijs. Deze wordt doorgestuurd naar het desbetreffende bedrijf, waarna er wordt bijgehouden of het bedrag reeds betaald is. Een bedrijf kan zijn contract ook stopzetten. Als deze stopzetting binnen de huurtermijn ligt, zal het bedrijf een aantal maanden opzeg moeten betalen, afhankelijk van de duur van het contract.
 
-### Onderhoud stadion
-> dees eeft redelijk wat overlap met de 'match inplannen', dus kweet niet egt wat we hiermee willen doen - arthur
+### ~~Onderhoud stadion~~
+
+<!---
+
+(Arthur) Dees eeft redelijk wat overlap met de 'match inplannen', dus kweet niet egt wat we hiermee willen doen
+
 Met elke match moet er vooraf minstens één training ingepland worden en minstens één team meeting om de tactieken te bespreken. De tijdsstippen van de match, training en meeting worden meegedeeld met de spelers, trainer, staf en de verantwoordelijke voor het onderhoud van de velden. Deze laatste moeten zorgen dat het veld tegen de match speelklaar is.
 
-Drie uur voordat de match start kunnen supporters het machtige stadion bezoeken en in de merchandise shop iets kopen en in het café, cafetaria 'de sporthalle' bij Carlo en Melanie, iets drinken. Tegen drie uur voor de match moeten, naast het stadion in zijn geheel, dus ook de shops en de cafetaria klaarstaan.
+(Stijn) Ja klopt, ik zou het eerder weglaten dan.
 
+
+<!--- Drie uur voordat de match start kunnen supporters het machtige stadion bezoeken en in de merchandise shop iets kopen en in het café, cafetaria 'de sporthalle' bij Carlo en Melanie, iets drinken. Tegen drie uur voor de match moeten, naast het stadion in zijn geheel, dus ook de shops en de cafetaria klaarstaan. --->
 
 
 ## Service Diagram
