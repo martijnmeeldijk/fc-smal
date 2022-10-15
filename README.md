@@ -125,6 +125,12 @@ Met elke match moet er vooraf minstens één training ingepland worden en minste
 
 Gemaakt met [draw.io](draw.io)
 
+(Stijn) Nog toe te voegen:
+
+    - VIP-boxen: keukencrew die moeten weten voor hoeveel mensen ze gerechten moeten voorzien en welke allergiën of vegitariërs er zijn.
+
+- Bij het verhuur van kantoorruimtes, moet daar ook geen verantwoordelijke van Smal FC rechtstreeks verbonden zijn daarmee? (Allez ben luidop aan het denken nu, ik kan echt totaal fout zijn. :'(  )
+
 ![service diagram.drawio](service_diagram.png)
 
 ## Mogelijke uitbreidingen
