@@ -8,13 +8,13 @@ Op het veld in het stadion worden matches gespeeld door de thuisploeg. Anderzijd
 
 Afhankelijk van welke activiteiten aan de gang zijn in het stadion moeten andere scenario's uitgevoerd worden: trainingen, matchen, events en aanwezige bedrijven.
 
-Op de parkings moeten genoeg parkeerslots beschikbaar zijn tijdens aankomende evenementen. Zo moeten parkeerplaatsen vrijgemaakt worden wanneer deze niet reglementair ingenomen zijn. Dit om te voorkomen dat er meer parkeerplaatsen verhuurd zijn dan dat er beschikbaar zijn. Daarvoor is er een actieve telling van de parkeerplaatsen door middel van slimme slagbomen nodig is.
+Op de parkings moeten genoeg parkeerslots beschikbaar zijn tijdens aankomende evenementen. Zo moeten parkeerplaatsen vrijgemaakt worden wanneer deze niet reglementair ingenomen zijn. Dit om te voorkomen dat er meer parkeerplaatsen verhuurd zijn dan dat er beschikbaar zijn. Hiervoor is er een actieve telling van de parkeerplaatsen door middel van slimme slagbomen.
 
 Tijdens matchdagen moet de omgeving rond het stadion ook aangepast worden, zo moeten bepaalde straten afgezet worden. Routes voor de spelersbussen en supportersbussen moeten doorgegeven worden om confrontraties tussen verschillende supportersgroepen en spelers te voorkomen.
 
 Bezoekers (visitors) van een voetbalmatch kunnen een ticket kopen voor een bepaalde match. De ticketverkoop gebeurt via het systeem van FC Smal als onze ploeg speelt, maar externen kunnen ook gebruik maken van het systeem (onder betaling). Een ticket geeft toegang tot een specifiek deel van het stadion, hierbij is het afhankelijk van welk ticket je hebt gekocht tot welk deel je toegang krijgt. Hier wordt een verschil gemaakt tussen supporters van zone A, B en dergelijke, maar ook tussen VIP en gewone supporters.
 
-Tijdens het gebruik van het stadion worden ook van verschillende bars gebruik gemaakt. Hier is monitoring van het verbuik van dranken, etenswaren noodzakelijk, zodat deze op tijd aangevuld kunnen worden.
+Tijdens het gebruik van het stadion worden ook van verschillende bars gebruik gemaakt. Hier is monitoring van het verbruik van dranken en etenswaren noodzakelijk, zodat deze op tijd aangevuld kunnen worden.
 
 ## Business scenarios
 
@@ -30,7 +30,8 @@ Voor elke match moet het veld gecontroleerd worden door een verantwoordelijke va
 - Doellijn technologie en VAR moet aanwezig zijn, wanneer deze niet aanwezig zijn moet een aanvraag gedaan worden bij de BVBB om deze technologiën te lenen.
 - De lijnen moeten zichtbaar genoeg zijn, anders moeten deze opnieuw getrokken worden. Dit wordt gedaan door de lijntrekkers.
 
-Afhankelijk van de rivaliteit tussen de ploegen moet extra politie ingeschakeld worden, deze worden verwittigd om: meerdere wegen afgesloten worden om supporters groepen van elkaar te scheiden en extra bemanning te voorzien.
+Afhankelijk van de rivaliteit tussen de ploegen moet extra politie ingeschakeld worden. Deze worden verwittigd om: wegen om te leiden om supportersgroepen van elkaar te scheiden; extra bemanning te voorzien; ...
+
 
 <!--- 
 
@@ -38,6 +39,11 @@ Afhankelijk van de rivaliteit tussen de ploegen moet extra politie ingeschakeld 
 
 - (Stijn) Wel relevant, want dan wordt de politie verwittigd. Dus is de politie een extra factor, gebruik makend van het systeem.
 - (Lars) ik vind dit ook wel goed, met die kuisploeg enzo.
+
+- (Arthur) kzit nog eens te peinzen: eigenlijk moeten we hier ook rekening houden met bv. de leveranciers (eten etc.) want dit hoort ook allemaal bij het inplannen van de match;
+je moet deze leveranciers allemaal contacteren om ervoor te zorgen dat hun producten tegen de matchdag bij jou liggen.
+Tzelfde kan eig. ook gezegd worden over bv. de parking; je zou moeten laten weten aan de externe bedrijven/winkels dat er die dag match is; waardoor ook zij daar rekening mee kunnen houden, of zelfs op in spelen. als we spreken over 'planning', hoort dit er allemaal bij
+
 -->
 
 
@@ -47,7 +53,7 @@ De verhuur (property rental) van het stadion gebeurt altijd via de website van F
 
 Afhankelijk van het type verhuur moeten ook parkeerplaatsen gereserveerd worden. De lijst van toegelaten nummerplaten en/of het aantal gereserveerde parkeerplaatsen worden bij de aanvraag meegegeven door de huurder. Hierbij moet de parkeerwachter controleren dat desbetreffende auto's gebruik mogen maken van de parking, dit automatisch door nummerplaatherkenning of op controle van toegangsticket. Het ticket wordt nagekeken op geldigheid.
 
-Het verhuren van het stadion kan gebeuren door externe partijen zoals bv. bedrijven, scholen, studentenverinigingen ... De prijsbepaling is afhankelijk van welke infrastructuur er wordt gehuurd (bv. veld, cafetaria, zalen, ...) en de tijdsduur. Het is onafhankelijk van de capaciteit, die wel wordt aangegeven op basis van de gekozen te huren infrastructuur.
+Het verhuren van het stadion kan gebeuren door externe partijen zoals bv. bedrijven, scholen, studentenverinigingen ... De prijsbepaling is afhankelijk van welke infrastructuur er wordt gehuurd (bv. veld, cafetaria, zalen, parking, ...) en de tijdsduur. Het is onafhankelijk van de capaciteit, die wel wordt aangegeven op basis van de gekozen te huren infrastructuur.
 
 ### Ticketverkoop
 
@@ -68,16 +74,16 @@ Door het gebruik van VIP-tickets is het wel noodzakelijk dat er gebruik gemaakt 
 -->
 
 
-Na corona is een leeg stadion niet het beeld dat we nog willen zien. Supporters kunnen hun toegang tot het stadion verkrijgen door het kopen van een ticket. Dit kan obv een dagticket of een abbonement. Deze kunnen aangekocht worden via de website.
+Na corona is een leeg stadion niet het beeld dat we nog willen zien. Supporters kunnen hun toegang tot het stadion verkrijgen door het kopen van een ticket. Dit kan o.b.v. een dagticket of een abonnement. Deze kunnen aangekocht worden via de website.
 
-In de tickets en abbonementen zijn verschillende formules mogelijk. Zo hebben supporters de keuze om een standaard ticket te kopen, dat hun toegang geeft tot het bekijken van de match. 
+In de tickets en abonnementen zijn verschillende formules mogelijk. Zo hebben supporters de keuze om een standaard ticket te kopen, dat hun toegang geeft tot het bekijken van de match. Voor de meer exclusieve supporters zijn VIP-boxen beschikbaar. 
 
-Voor de meer exclusieve supporters zijn VIP-boxen beschikbaar, bij deze formule hoort een 3 gangen-menu en betere stoelen om naar de match te kijken. Bij de VIP-boxen hoort een keukenploeg die de maaltijden voorbereidt. Zij moeten op voorhand weten hoeveel gasten gebruik maken van de VIP-boxen om de nodige voedselaankopen te doen. VIP's moeten ook steeds op voorhand allergiën en het wel of niet eten van vlees doorgeven. De keuken vraagt deze keuken op om alternatieven te kunnen voorzien.
+Bij de VIP-formule horen een 3 gangen-menu en betere stoelen om naar de match te kijken. De 3 gangen-menu's worden door een professionele keukenploeg voorbereid. Zij moeten op voorhand weten hoeveel gasten gebruik maken van de VIP-boxen om de nodige voedselaankopen te doen. VIP's moeten ook steeds op voorhand allergiën en het wel of niet eten van vlees doorgeven. FC Smal vraagt deze keuken om alternatieven te kunnen voorzien.
 
 <!--
 (Stijn) Dit deel zou eig. weggelaten mogen worden.
 
-(Arthur) Tenzij we de interacties met ons systeem uitleggen: registreren als abonnee, gegeven ingeven (nummerplaat etc), abonnement dan kopen op website, ...
+(Arthur) Tenzij we de interacties met ons systeem uitleggen: registreren als abonnee, gegevens ingeven (nummerplaat etc), abonnement dan kopen op website, ...
 => in feite kunnen we ook hier een apart scenario van maken. het kopen van een abonnement (voor de eerste keer weliswaar)
 
 * Eén maand voor de match opent de ticketverkoop. Als deze geopend is kunnen supporters van de thuisploeg of van de bezoekers een plekje reserveren voor zichzelf of voor meerdere personen (max. 5). Er zijn verschillende levels van tickets. Je hebt de gewone stoeltjes, waarvan de prijs stijgt des te beter de plaatsen. Maar er zijn ook de VIP boxes die supporters kunnen huren. Bij de VIP boxes kan een maaltijd genomen worden.
@@ -89,13 +95,13 @@ Voor de meer exclusieve supporters zijn VIP-boxen beschikbaar, bij deze formule 
 
 De parking is toegankelijk voor iedereen, maar is opgedeeld in verschillende zones of gradaties. In aflopende volgorde van duurste naar goedkoper: gewone bezoekers (winkel, stadion ...), bezoekers voor de lokale bedrijven/organisaties en speciale parkings voor abonnees van het voetbal.
 
-Afhankelijk van de planning geeft het systeem door welke parkings afgesloten moeten worden.  Deze kunnen afgehuurd zij voor veiligheidsredenen en dergelijke. Het aantal ingenomen parkeerplaatsen wordt bijgehouden. Het is mogelijk dat er te veel auto's nog zijn geparkeerd, zonder dat deze daar allemaal toelating voor hebben. Bijvoorbeeld auto's van winkeliers die nog steeds geparkeerd staan, auto's van supporters die door overmacht blijven staan, ... In dergelijke gevallen wordt de parkeerwachter gecontacteerd om desbetreffende auto's te laten verwijderen van het domein. De parkeerwachter kan nagaan welke auto's wel of niet geparkeerd mogen zijn.
+Afhankelijk van de planning geeft het systeem door welke parkings niet toegankelijk zijn. Deze parkings kunnen afgehuurd zijn na aanvraag, of afgesloten zijn om veiligheidsredenen en dergelijke. Het aantal real-time ingenomen parkeerplaatsen wordt bijgehouden. Het is mogelijk dat er te veel auto's nog zijn geparkeerd, zonder dat deze daar allemaal toelating voor hebben. Bijvoorbeeld auto's van winkeliers die nog steeds geparkeerd staan, auto's van supporters die door overmacht blijven staan, ... In dergelijke gevallen wordt de parkeerwachter gecontacteerd om desbetreffende auto's te laten verwijderen van het domein. De parkeerwachter kan nagaan welke auto's wel of niet geparkeerd mogen zijn.
 
-Er is natuurlijk ook parking voor de spelers, leveranciers  en externen (bv. onderhoudsteam) ... maar deze parking is gratis. Leverancies moeten laten weten wanneer deze gebruik gaan maken van de parkeerplaats, zodat deze niet dubbel geboekt kan worden. Hierdoor kunnen genoeg parkeerplaatsen voorzien worden bij leveringen.
+Er is natuurlijk ook parking voor de spelers, leveranciers en externen (bv. onderhoudsteam) ... maar deze parking is gratis. Leverancies moeten laten weten wanneer deze gebruik gaan maken van de parkeerplaats, zodat deze niet dubbel geboekt kan worden. Hierdoor kunnen genoeg parkeerplaatsen voorzien worden bij leveringen.
 
-Op de parking staan verschillende automaten waar er een parkeerticket kan gekocht worden, deze kunnen ook online aangevraagd worden.
+Op de parking staan verschillende automaten waar er een parkeerticket kan gekocht worden, of deze kunnen ook online aangevraagd worden.
 
-Op de website kunnen oa. de abonnees hun nummerplaat ingeven waardoor er vanzelf een parkeerticket aan een lagere prijs wordt toegevoegd aan hun abonnement. Dit ticket geeft hun toegang tot een desbetreffende parking, zodat zij niet tot elke parking toegang hebben. De checks op de parking (check-in, check-out, ...) gebeuren namelijk o.b.v. nummerplaat.
+Op de website kunnen o.a. de abonnees hun nummerplaat ingeven waardoor er vanzelf een parkeerticket aan een lagere prijs wordt toegevoegd aan hun abonnement. Dit ticket geeft hun toegang tot een desbetreffende parking, zodat zij niet tot elke parking toegang hebben. De checks op de parking (check-in, check-out, ...) gebeuren namelijk o.b.v. nummerplaat.
 
 Er zijn opties tot: een speciaal matchticket (als er een voetbalmatch is), een dagticket (toegang hele stadion) en een standaardticket (toegang hele stadion) o.b.v. de geparkeerde tijdsduur.
 
@@ -103,13 +109,13 @@ Bezoekers van de lokale winkels hoeven niet een ticket te kopen, zij kunnen gebr
 
 ### Verhuur kantoorruimten voor bedrijven/winkels
 
-Aan het gigantische voetbalstadion van Poperinge zijn er ook kantoorruimten voorzien voor handelaars en bedrijven. Een bedrijf kan een kantoorruimte huren door een aanvraag in te dienen. Een bedrijf doet de aanvraag naar de beschikbare kantoorruimten. Vervolgs kunnen zij een aanvraag doen naar een specifieke kantoorruimte. Deze aanvraag wordt goedgekeurd of afgekeurd door de verantwoordelijke van Smal FC. Bij een goedkeuring stelt deze een contract op, met bijhorende waarborg. Contracten hebben een periode van minimum 1 jaar en kunnen steeds verlengd worden.
+Aan het onmetelijke voetbalstadion van Poperinge zijn er ook kantoorruimten voorzien voor handelaars en bedrijven. Een bedrijf kan een kantoorruimte huren door een aanvraag in te dienen. Een bedrijf doet de aanvraag naar de beschikbare kantoorruimten. Vervolgs kunnen zij een aanvraag doen naar een specifieke kantoorruimte. Deze aanvraag wordt goedgekeurd of afgekeurd door de verantwoordelijke van Smal FC. Bij een goedkeuring stelt deze een contract op, met bijhorende waarborg. Contracten hebben een periode van minimum 1 jaar en kunnen steeds verlengd worden.
 
-De verantwoordelijke houdt het verbruik van elk bedrijf bij en kijkt de maandelijkse betalingen na. Bij het missen van een huur wordt het desbetreffende bedrijf gecontacteerd door de verantwoordelijke en krijgt deze een waarschuwing voor achterstallige huur. Bij meerdere waarschuwingen wordt het contract ontbonden en wordt het bedrijf uit de kantoorruimten gehaald.
+De verantwoordelijke houdt het verbruik van elk bedrijf bij en kijkt de maandelijkse betalingen na. Bij het missen van een huur wordt het desbetreffende bedrijf gecontacteerd door de verantwoordelijke en krijgt deze een waarschuwing voor achterstallige huur. Bij meerdere waarschuwingen wordt het contract ontbonden en wordt het bedrijf de kantoorruimten ontzegd.
 
-Een bedrijf kan ook zelf zijn contract stopzetten. Hier neemt het bedrijf contact op met de verantwoordelijke, die de stopzetting verder afrond. Het bedrijf zal een aantal maanden opzeg moeten betalen, afhankelijk van de duur van het contract.
+Een bedrijf kan ook zelf zijn contract stopzetten. Hier neemt het bedrijf contact op met de verantwoordelijke, die de stopzetting verder afrondt. Het bedrijf zal een aantal maanden opzeg moeten betalen, afhankelijk van de duur van het contract.
 
-Jaarlijks neemt de verantwoordelijke contact op met de hurende bedrijven, met de vraag of hun contract met een jaar verlengt wordt of niet. Wanneer een bedrijf zijn contract niet wenst te verlengen, brengt dit geen bijkomende kosten met zich mee.
+Jaarlijks neemt de verantwoordelijke contact op met de hurende bedrijven, met de vraag of hun contract met een jaar verlengd wordt of niet. Wanneer een bedrijf zijn contract niet wenst te verlengen, brengt dit geen bijkomende kosten met zich mee.
 
 ### ~~Onderhoud stadion~~
 
