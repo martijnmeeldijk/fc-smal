@@ -4,13 +4,13 @@
 
 De voetbalclub FC Smal is in het bezit van het voetbalstadion van Poperinge. Dit betreft het stadion, trainingsvelden met bijhorende apparatuur, parkings, reclameborden, infrastructuur en materiaal.
 
-Op het veld in het stadion worden matches gespeeld door de thuisploeg. Anderzijds kunnen andere ploegen of particulieren (externen) de omliggende velden, ruimtes in het stadion afhuren voor gebruik. Dit kan aan de hand van een aanvraag voor een bepaald tijdslot, gevolgd door goedkeuring van FC Smal.
+Op het veld in het stadion worden matches gespeeld door de thuisploeg. Anderzijds kunnen andere ploegen of particulieren (externen) de omliggende velden en ruimtes in het stadion afhuren voor gebruik. Dit kan aan de hand van een aanvraag voor een bepaald tijdslot gevolgd door goedkeuring van FC Smal.
 
 Afhankelijk van welke activiteiten aan de gang zijn in het stadion moeten andere scenario's uitgevoerd worden: trainingen, matchen, events en aanwezige bedrijven.
 
-Op de parkings moeten genoeg parkeerslots beschikbaar zijn tijdens aankomende evenementen. Zo moeten parkeerplaatsen vrijgemaakt worden, wanneer deze niet reglementair ingenomen zijn. Dit om te voorkomen dat er meer parkeerplaatsen verhuurd zijn dan beschikbaar, waardoor een actieve telling van de parkeerplaatsen door middel van slimme slagbomen noodzakelijk is.
+Op de parkings moeten genoeg parkeerslots beschikbaar zijn tijdens aankomende evenementen. Zo moeten parkeerplaatsen vrijgemaakt worden wanneer deze niet reglementair ingenomen zijn. Dit om te voorkomen dat er meer parkeerplaatsen verhuurd zijn dan dat er beschikbaar zijn. Daarvoor is er een actieve telling van de parkeerplaatsen door middel van slimme slagbomen nodig is.
 
-Tijdens matchdagen moet de omgeving rond het stadion ook aangepast worden, zo moeten bepaalde straten afgezet worden. Routes voor de spelersbussen en supportersbussen doorgegeven worden, om confrontraties tussen verschillende supportersgroepen en spelers te voorkomen.
+Tijdens matchdagen moet de omgeving rond het stadion ook aangepast worden, zo moeten bepaalde straten afgezet worden. Routes voor de spelersbussen en supportersbussen moeten doorgegeven worden om confrontraties tussen verschillende supportersgroepen en spelers te voorkomen.
 
 Bezoekers (visitors) van een voetbalmatch kunnen een ticket kopen voor een bepaalde match. De ticketverkoop gebeurt via het systeem van FC Smal als onze ploeg speelt, maar externen kunnen ook gebruik maken van het systeem (onder betaling). Een ticket geeft toegang tot een specifiek deel van het stadion, hierbij is het afhankelijk van welk ticket je hebt gekocht tot welk deel je toegang krijgt. Hier wordt een verschil gemaakt tussen supporters van zone A, B en dergelijke, maar ook tussen VIP en gewone supporters.
 
@@ -20,7 +20,7 @@ Tijdens het gebruik van het stadion worden ook van verschillende bars gebruik ge
 
 ### Match inplannen
 
-De voetbalbond (football association) deelt de planning van komend seizoen mee, wanneer de ploeg speelt, thuis als uitmatchen. Deze data worden ingepland, waardoor het stadion match-klaar gemaakt kan worden.
+De voetbalbond (football association) deelt de matchplanning van komend seizoen mee. Deze data worden ingepland, waardoor het stadion match-klaar gemaakt kan worden.
 
 Voor die match moeten de twee kleedkamers (bezoekers en thuisploeg) helemaal proper gemaakt worden. Dit wordt gedaan door de kuisploeg (cleaning crew) en deze wordt verwittigd wanneer er verwacht wordt de kleedkamers te kuisen.
 
@@ -37,12 +37,13 @@ Afhankelijk van de rivaliteit tussen de ploegen moet extra politie ingeschakeld 
 - (Martijn) Dit heeft niet echt betrekking tot ons systeem volgens mij, misschien beter achterwege laten;
 
 - (Stijn) Wel relevant, want dan wordt de politie verwittigd. Dus is de politie een extra factor, gebruik makend van het systeem.
+- (Lars) ik vind dit ook wel goed, met die kuisploeg enzo.
 -->
 
 
 ### Stadion verhuren
 
-De verhuur (property rental) van het stadion gebeurt altijd via de website van FC Slam, die het stadion beheert. Hierbij worden aan huurders (tenants) vrije datums en tijdsslots getoond waar zij een aanvraag voor kunnen doen.
+De verhuur (property rental) van het stadion gebeurt altijd via de website van FC Smal, die het stadion beheert. Hierbij worden aan huurders (tenants) vrije datums en tijdsslots getoond waar zij een aanvraag voor kunnen doen.
 
 Afhankelijk van het type verhuur moeten ook parkeerplaatsen gereserveerd worden. De lijst van toegelaten nummerplaten en/of het aantal gereserveerde parkeerplaatsen worden bij de aanvraag meegegeven door de huurder. Hierbij moet de parkeerwachter controleren dat desbetreffende auto's gebruik mogen maken van de parking, dit automatisch door nummerplaatherkenning of op controle van toegangsticket. Het ticket wordt nagekeken op geldigheid.
 
@@ -88,7 +89,7 @@ Voor de meer exclusieve supporters zijn VIP-boxen beschikbaar, bij deze formule 
 
 De parking is toegankelijk voor iedereen, maar is opgedeeld in verschillende zones of gradaties. In aflopende volgorde van duurste naar goedkoper: gewone bezoekers (winkel, stadion ...), bezoekers voor de lokale bedrijven/organisaties en speciale parkings voor abonnees van het voetbal.
 
-Afhankelijk van de planning geeft het systeem door welke parkings afgesloten moeten worden.  Deze kunnen afgehuurd zijn, om veiligheidsredenen en dergelijke. Het aantal ingenomen parkeerplaatsen wordt bijgehouden. Het is mogelijk dat er te veel auto's nog zijn geparkeerd, zonder dat deze daar allemaal toelating voor hebben. Bijvoorbeeld auto's van winkeliers die nog steeds geparkeerd staan, auto's van supporters die door overmacht blijven staan, ... In dergelijke gevallen wordt de parkeerwachter gecontacteerd om desbetreffende auto's te laten verwijderen van het domein. De parkeerwachter kan nagaan welke auto's wel of niet geparkeerd mogen zijn.
+Afhankelijk van de planning geeft het systeem door welke parkings afgesloten moeten worden.  Deze kunnen afgehuurd zij voor veiligheidsredenen en dergelijke. Het aantal ingenomen parkeerplaatsen wordt bijgehouden. Het is mogelijk dat er te veel auto's nog zijn geparkeerd, zonder dat deze daar allemaal toelating voor hebben. Bijvoorbeeld auto's van winkeliers die nog steeds geparkeerd staan, auto's van supporters die door overmacht blijven staan, ... In dergelijke gevallen wordt de parkeerwachter gecontacteerd om desbetreffende auto's te laten verwijderen van het domein. De parkeerwachter kan nagaan welke auto's wel of niet geparkeerd mogen zijn.
 
 Er is natuurlijk ook parking voor de spelers, leveranciers  en externen (bv. onderhoudsteam) ... maar deze parking is gratis. Leverancies moeten laten weten wanneer deze gebruik gaan maken van de parkeerplaats, zodat deze niet dubbel geboekt kan worden. Hierdoor kunnen genoeg parkeerplaatsen voorzien worden bij leveringen.
 
@@ -98,7 +99,7 @@ Op de website kunnen oa. de abonnees hun nummerplaat ingeven waardoor er vanzelf
 
 Er zijn opties tot: een speciaal matchticket (als er een voetbalmatch is), een dagticket (toegang hele stadion) en een standaardticket (toegang hele stadion) o.b.v. de geparkeerde tijdsduur.
 
-Bezoekers van de lokale winkels hoeven niet een ticket te kopen, zij kunnen gebruik maken van hun kassaticket, dat ook geldt als een geldig parkeerticket. Hiervoor moeten men voor veiligheidsredenen natuurlijk op de juiste parking staan. Als men aan de slagboom staat en men staat niet in het systeem als winkelier, worden ze verplicht een dagticket te kopen ter compensatie.
+Bezoekers van de lokale winkels hoeven niet een ticket te kopen, zij kunnen gebruik maken van hun kassaticket, dat ook geldt als een geldig parkeerticket. Hiervoor moet men voor veiligheidsredenen natuurlijk op de juiste parking staan. Als men aan de slagboom staat en men staat niet in het systeem als winkelier, worden ze verplicht een dagticket te kopen ter compensatie.
 
 ### Verhuur kantoorruimten voor bedrijven/winkels
 
@@ -132,7 +133,7 @@ Gemaakt met [draw.io](draw.io)
 
     - VIP-boxen: keukencrew die moeten weten voor hoeveel mensen ze gerechten moeten voorzien en welke allergiën of vegitariërs er zijn.
 
-- Bij het verhuur van kantoorruimtes, moet daar ook geen verantwoordelijke van Smal FC rechtstreeks verbonden zijn daarmee? (Allez ben luidop aan het denken nu, ik kan echt totaal fout zijn. :'(  )
+- Bij het verhuur van kantoorruimtes, moet daar ook geen verantwoordelijke van FC Smal  rechtstreeks verbonden zijn daarmee? (Allez ben luidop aan het denken nu, ik kan echt totaal fout zijn. :'(  )
 
 (Arthur) Kben nu ff aant denken hé, stel da we het scenario 'abonnement kopen (als nieuw lid)' erbij pakken, dan krijgen we een héél registratieproces erbij (!)
 
