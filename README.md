@@ -1,6 +1,6 @@
+Link naar drive bestand: https://docs.google.com/document/d/1Vr4oCFJtOxNNgoWAhzLJxogJ7lX6hsBuHmIptVCTFnA/edit#heading=h.j8gymb848gr
+
 # Voetbalclub FC Smal
-
-
 
 # Business domein
 
@@ -43,9 +43,10 @@ Afhankelijk van de rivaliteit tussen de ploegen moet extra politie ingeschakeld 
 <!--(Lars) ik vind dit ook wel goed, met die kuisploeg enzo.-->
 
 <!--(Arthur) kzit nog eens te peinzen: eigenlijk moeten we hier ook rekening houden met bv. de leveranciers (eten etc.) want dit hoort ook allemaal bij het inplannen van de match;-->
-<!--je moet deze leveranciers allemaal contacteren om ervoor te zorgen dat hun producten tegen de matchdag bij jou liggen.-->
-<!--Tzelfde kan eig. ook gezegd worden over bv. de parking; je zou moeten laten weten aan de externe bedrijven/winkels dat er die dag match is; waardoor ook zij daar rekening mee kunnen houden, of zelfs op in spelen. als we spreken over 'planning', hoort dit er allemaal bij-->
 
+<!--je moet deze leveranciers allemaal contacteren om ervoor te zorgen dat hun producten tegen de matchdag bij jou liggen.-->
+
+<!--Tzelfde kan eig. ook gezegd worden over bv. de parking; je zou moeten laten weten aan de externe bedrijven/winkels dat er die dag match is; waardoor ook zij daar rekening mee kunnen houden, of zelfs op in spelen. als we spreken over 'planning', hoort dit er allemaal bij-->
 
 ## Stadion verhuren
 
@@ -62,6 +63,7 @@ Het verhuren van het stadion kan gebeuren door externe partijen zoals bv. bedrij
 <!--(Martijn) Alvorens diep op de verschillende niveaus in te gaan zou ik gewoon uitleggen dat mensen een ticket kunnen kopen en dat ze dan inchecken op de dag van de match. Dat is de belangrijkste functionaliteit.-->
 
 <!--(Stijn) Ticketverkoop prioriteit. De gradaties kan je wel gebruiken als inkleding.-->
+
 <!--Wel heel weinig betrokken factors, uiteindelijk maar 1 interactie. Client <-> Online ticketverkoop.-->
 
 <!--Door het gebruik van VIP-tickets is het wel noodzakelijk dat er gebruik gemaakt wordt van het systeem.-->
@@ -71,12 +73,12 @@ Het verhuren van het stadion kan gebeuren door externe partijen zoals bv. bedrij
 <!--Allergiën-->
 
 <!--Verzoeken-->
-<!-- => Mss beter als een ander scenario gebruiken.-->
 
+<!-- => Mss beter als een ander scenario gebruiken.-->
 
 Supporters kunnen hun toegang tot het stadion verkrijgen door het kopen van een ticket. Dit kan o.b.v. een dagticket of een abonnement. Deze kunnen aangekocht worden via de website.
 
-In de tickets en abonnementen zijn verschillende formules mogelijk. Zo hebben supporters de keuze om een standaardticket te kopen dat hun toegang verleent tot het bekijken van de match. Voor de meer exclusieve supporters zijn VIP-boxen beschikbaar. 
+In de tickets en abonnementen zijn verschillende formules mogelijk. Zo hebben supporters de keuze om een standaardticket te kopen dat hun toegang verleent tot het bekijken van de match. Voor de meer exclusieve supporters zijn VIP-boxen beschikbaar.
 
 Bij de VIP-formule horen een driegangenmenu en betere stoelen om naar de match te kijken. De driegangenmenu's worden door een professionele keukenploeg voorbereid. Zij moeten op voorhand weten hoeveel gasten gebruik maken van de VIP-boxen om de nodige voedselaankopen te doen. VIP's moeten ook steeds op voorhand allergieën en het wel of niet eten van vlees doorgeven. FC Smal vraagt deze keuken om alternatieven te kunnen voorzien.
 
@@ -84,14 +86,14 @@ Bij de VIP-formule horen een driegangenmenu en betere stoelen om naar de match t
 <!--(Stijn) Dit deel zou eig. weggelaten mogen worden.-->
 
 <!--(Arthur) Tenzij we de interacties met ons systeem uitleggen: registreren als abonnee, gegevens ingeven (nummerplaat etc), abonnement dan kopen op website, ...-->
+
 <!--=> in feite kunnen we ook hier een apart scenario van maken. het kopen van een abonnement (voor de eerste keer weliswaar)-->
 
 <!--Eén maand voor de match opent de ticketverkoop. Als deze geopend is kunnen supporters van de thuisploeg of van de bezoekers een plekje reserveren voor zichzelf of voor meerdere personen (max. 5). Er zijn verschillende levels van tickets. Je hebt de gewone stoeltjes, waarvan de prijs stijgt des te beter de plaatsen. Maar er zijn ook de VIP boxes die supporters kunnen huren. Bij de VIP boxes kan een maaltijd genomen worden.-->
 
 <!--Trouwe supporters van FC Smal kunnen in het begin van het seizoen een abonnement kopen, dit geeft hen toegang tot alle matches met zekerheid van plekken tussen andere abonnementen houders. Dit abonnement kan je in één keer afbetalen maar kan ook een maandelijkse storting zijn. Het is goedkoper wanneer het direct betaald wordt.-->
 
-<!--Supporters hebben ook de mogelijkheid om lid te worden van de fanclub. Hiervoor betaalt men een maandelijkse prijs (wel stukken lager dan het abonnement). Wanneer een supporter lid is van de fanclub krijgt die eerder toegang tot tickets en aan een lagere prijs voor betere zitjes.--> 
-
+<!--Supporters hebben ook de mogelijkheid om lid te worden van de fanclub. Hiervoor betaalt men een maandelijkse prijs (wel stukken lager dan het abonnement). Wanneer een supporter lid is van de fanclub krijgt die eerder toegang tot tickets en aan een lagere prijs voor betere zitjes.-->
 
 ## Gebruik van de parking
 
@@ -119,7 +121,7 @@ Een bedrijf kan ook zelf zijn contract stopzetten. Hier neemt het bedrijf contac
 
 Jaarlijks neemt de verantwoordelijke contact op met de hurende bedrijven, met de vraag of hun contract met een jaar verlengd wordt of niet. Wanneer een bedrijf zijn contract niet wenst te verlengen, brengt dit geen bijkomende kosten met zich mee.
 
-### <!--~~Onderhoud stadion~~-->
+### `<!--~~Onderhoud stadion~~-->`
 
 <!--(Arthur) Dees eeft redelijk wat overlap met de 'match inplannen', dus kweet niet egt wat we hiermee willen doen-->
 
@@ -142,8 +144,6 @@ Jaarlijks neemt de verantwoordelijke contact op met de hurende bedrijven, met de
 <!--(Arthur) Kben nu ff aant denken hé, stel da we het scenario 'abonnement kopen (als nieuw lid)' erbij pakken, dan krijgen we een héél registratieproces erbij (!)-->
 
 ![service diagram.drawio](service_diagram.png)
-
-
 
 ## Mogelijke uitbreidingen
 
